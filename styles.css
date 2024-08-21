@@ -8,7 +8,7 @@ body{
 
 header{
 
-header-bottom: solid 2px black;
+border-bottom: solid 2px black;
 
 padding: 20px;
 
@@ -29,5 +29,5 @@ section{
 
 .chamada-texto{
  margin-right: 5%;
- 
+
 }
