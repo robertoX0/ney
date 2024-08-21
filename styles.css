@@ -1,5 +1,33 @@
 body{
 
   color:blueviolet;
-  background: black
+  background: black(204, 187, 187);
+
+  margin: 0px;
+}
+
+header{
+
+header-bottom: solid 2px black;
+
+padding: 20px;
+
+font-size: 32px;
+
+color: black;
+
+}
+
+section{
+  background: white;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.chamada-texto{
+ margin-right: 5%;
+ 
 }
